@@ -14,5 +14,7 @@ Technologies used:
    - Save images to PhotoAlbum 
    - How to work with CoreImage.CIFilterBuiltins 
    - Basic concepts of CoreImage
+   
+   ![](https://github.com/Guanais)
 
  
