@@ -15,6 +15,6 @@ Technologies used:
    - How to work with CoreImage.CIFilterBuiltins 
    - Basic concepts of CoreImage
    
-   ![](https://github.com/Guanais)
+   ![](https://github.com/Guanais/Instafilter/blob/origin/Instafilter/DELETE_ME/Bear.gif?raw=true)
 
  
